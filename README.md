@@ -21,8 +21,9 @@ authoritative and informed recommendations, and make suggestions for further res
 
 
 ### Tools:
-* Written in LaTex
-* Python, mysql-connector module, matplotlib
-* MySQL Workbench database
+* Written in LaTex using Overleaf
+* Data collected, cleaned, normalized using Python, mysql-connector module, and Jupyter Notebooks
+* Models and visualizations made using matplotlib
+* Data stored in MySQL Workbench database
 
 Written 4/2023, Posted as a writing sample
