@@ -1,6 +1,6 @@
 # Measuring the Effectiveness of Electric Vehicles based on Environmental Impact, Cost-Effectiveness, and Reliability
 
-Group term research paper for "Data Science"
+Group research term paper for "Data Science"
 
 written by Mason Ballard, Holly Jordan, Chris Pierre-Paul, Chris Que, Sophia Villalonga
 
@@ -23,7 +23,7 @@ authoritative and informed recommendations, and make suggestions for further res
 ### Tools:
 * Written in LaTex using Overleaf
 * Data collected, cleaned, normalized using Python, mysql-connector module, and Jupyter Notebooks
-* Models and visualizations made using matplotlib
+* Exploratory data analysis completed and models and visualizations made using matplotlib and scikit-learn
 * Data stored in MySQL Workbench database
 
 Written 4/2023, Posted as a writing sample
