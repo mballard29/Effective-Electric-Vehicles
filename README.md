@@ -27,3 +27,5 @@ authoritative and informed recommendations, and make suggestions for further res
 * Data stored in MySQL Workbench database
 
 Written 4/2023, Posted as a writing sample
+
+I wrote the section analyzing cost effectiveness, and I contributed to the introduction, conclusion, works cited, and making sure the paper conformed to ACM's style guidlines.
